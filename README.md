@@ -65,9 +65,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Bhagvan Kommadi**, the founder of Quantica Computacao and Architect Corner, has around 18 years' experience in the industry, ranging from large-scale enterprise development to incubating software product startups. He has a master's degree in Industrial Systems Engineering from the Georgia Institute of Technology (1997) and a bachelor's degree in Aerospace Engineering from the IIT Madras (1993). He is a member of the IFX forum and an individual member of Oracle JCP.
 He has developed Go-based blockchain solutions in the retail, education, banking, and financial service sectors. He has experience of building high-transactional applications using Java, Python, Go, Ruby, and JavaScript frameworks.
 
-## Other books by the authors
-[Learn Q# Programming](https://www.packtpub.com/application-development/learn-q-programming?utm_source=github&utm_medium=repository&utm_campaign=9781788991889)
-
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
